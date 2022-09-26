@@ -1,0 +1,14 @@
+{
+  "name": "timed-discord-bot",
+  "version": "1.0.0",
+  "description": "This is a bot that is made to give scheduled messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
